@@ -16,7 +16,8 @@
   <img align="center" alt="Mari-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />  
   <img align="center" alt="Mari-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
   <img align="center" alt="Mari-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
-  <img align="center" alt="Mari-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />                                   
+  <img align="center" alt="Mari-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://thumbs2.imgbox.com/ec/8a/T2fpyy1a_t.jpeg" alt="image host"/>
 </div>
   
   ##
@@ -26,8 +27,5 @@
 <a href="https://www.linkedin.com/in/marissania-rosa-basilio-cortez-portes-5a2265160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/marissania">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/marissania&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?https://github.com/marissania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+ 
+
